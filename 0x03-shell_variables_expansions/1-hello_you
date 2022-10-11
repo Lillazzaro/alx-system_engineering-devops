@@ -1,2 +1,2 @@
 #!/bin/bash
-exho "hello $MyUser"
+exho "hello $USER"
